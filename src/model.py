@@ -15,7 +15,7 @@ import shap
 
 
 CATEGORICAL_FEATURES = [
-    "country", "channel", "sub_channel", "product_class",
+    "country", "channel", "subchannel", "product_class",
     "sales_team", "manager",
 ]
 NUMERIC_FEATURES = ["month_num", "year", "quantity"]
